@@ -1,4 +1,4 @@
-# Hi, My Name Is Victor H! 👋
+# Hi, My Name Is Victor 👋
 
 Welcome to my profile.
 
