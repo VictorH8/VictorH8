@@ -4,8 +4,8 @@ Welcome to my profile.
 
 > "I'm not like them, but I can pretend."
 
-![MafiaBoyBR GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&theme=radical&card_width=550px)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH8&layout=donut&theme=radical&card_width=550px)
+![MafiaBoyBR GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&theme=radical&card_width=500px)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH8&layout=donut&theme=radical&card_width=480px)
 
 ## Languages I'm learning
 
