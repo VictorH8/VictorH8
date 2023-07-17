@@ -4,7 +4,7 @@ Welcome to my profile.
 
 > "I'm not like them, but I can pretend."
 
-![MafiaBoyBR GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&theme=radical&langs_count=7)
+![MafiaBoyBR GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&theme=radical&card_width=300px&langs_count=7)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH8&layout=compact&theme=radical&langs_count=7)
 
