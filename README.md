@@ -14,11 +14,11 @@
 
 
 ### Skills:
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=000000)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=python&labelColor=000000)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=e34c26&labelColor=000000)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=000000)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=000000)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=000000)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
 
 
