@@ -1,26 +1,26 @@
-# Hi, My Name Is Victor 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-Welcome to my profile.
-
-> "I'm not like them, but I can pretend."
-
-![MafiaBoyBR GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&theme=radical&card_width=500px&langs_count=7)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH8&layout=compact&theme=radical&card_width=500pxlangs_count=7)
 
-## Languages I'm learning
 
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Shell Script Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Projects
+<div align="center">  
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=696969&bg_color=000" alt="LeviAckr github stats" /> 
+  <img width="41%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH8&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=000" />
+</div>
 
-At the moment, I'm focused on my studies!
 
-## Contact
+<br>
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MuzanDev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-17932b260/)
 
-Let's code! </>
+### Skills:
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&labelColor=000000)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=python&labelColor=000000)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=e34c26&labelColor=000000)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=000000)&nbsp;
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=footer"/> 
+
