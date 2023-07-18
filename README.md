@@ -2,7 +2,7 @@
 
 <br>
 
-> Hello Word
+
 
 <div align="center">  
   <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=696969&bg_color=000" alt="LeviAckr github stats" /> 
