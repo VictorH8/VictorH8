@@ -18,6 +18,7 @@
   ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=000000)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=000000)&nbsp;
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-000?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=000000)&nbsp;
+  ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=000000)&nbsp;
 
 </div>
