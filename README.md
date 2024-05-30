@@ -16,6 +16,7 @@
 <div align="center"> 
 
   ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)&nbsp;
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff&labelColor=000000)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=000000)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=000000)&nbsp;
   ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=000000)&nbsp;
