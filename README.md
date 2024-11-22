@@ -1,25 +1,33 @@
-<br>
-
-
-
-<div align="center">  
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=VictorH8&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=696969&bg_color=000" alt="LeviAckr github stats" /> 
-  <img width="41%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorH8&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=000" />
+<div align="center">
+  <img height="158" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAzbzJtNTd5b3A2cGw0enA4ajc4aWp6Ynk1bm93cWl6emJycGswZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.webp"  />
 </div>
 
+###
 
-<br>
+<h1 align="center"></h1>
 
+###
 
-## Skills:
+<h3 align="center">🛠 Language and Tools</h3>
 
-<div align="center"> 
+###
 
-  ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff&labelColor=000000)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff&labelColor=000000)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff&labelColor=000000)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=000000)&nbsp;
-  ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=000000)&nbsp;
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+
+###
