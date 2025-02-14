@@ -1,51 +1,76 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8123C8&height=100&section=header&animation=fadeIn"/>
+
 <div align="center">
-
-![Linux](https://camo.githubusercontent.com/832574908c191e4fbe62e380eb016f6b573f86881b66562d02105fa628d52f2c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30352f33302f37322f30353330373264616262616230353462656130333534353132333966653831622e706e67)
-
+  <h3 align="center"> Bem-vindo(a) ao meu perfil! </h3>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1003&color=8123C8&center=true&width=435&height=53&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Victor+H.)](https://git.io/typing-svg)
+---
 
-## Sobre mim
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8123C8&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend;Apaixonado+por+Tecnologia;Sempre+Aprendendo+e+Compartilhando!" />
+</div>
 
-- 👨‍💻 Desenvolvedor Backend, atualmente cursando **Ciência da Computação**.  
-- 🐧 Fã de **distribuições Linux** e defensor do **software livre**. 
-
-## 🛠 Habilidades Técnicas
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=00599C)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
-
-**Banco de dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FFFFFF)
-![SQlite](https://img.shields.io/badge/SQlite-000000?style=flat&logo=SQLite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+<div align="center">
+  <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Hacker Icon" width="120" height="120"/>
+</div>
 
 
-**DevOps**
+## 🧠 Sobre Mim
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+Me chamo **Victor H**. Sou um Desenvolvedor Backend apaixonado por tecnologia e software livre. Atualmente, estou cursando **Ciência da Computação** e dedicado a criar soluções eficientes e escaláveis. Acredito no poder da colaboração e no compartilhamento de conhecimento para construir um mundo digital mais aberto e acessível.
 
-**Ferramentas de desenvolvimento**
+## 🌌 O que me define:
+- Desenvolvedor Backend focado em soluções escaláveis.
+- Apaixonado por software livre e distribuições Linux.
+- Entusiasta de DevOps e boas práticas de desenvolvimento.
+- Sempre em busca de aprender e compartilhar conhecimento.
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Vim](https://img.shields.io/badge/Vim-000000?logo=vim)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+---
 
-<br/>
+## 💻 Tecnologias
 
-<a href="https://github.com/victorh8" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorh8&theme=midnight-purple&show_icons=true" />
-</a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" style="margin: 10px;"/>
+</div>
 
-## Onde me encontrar
+---
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-00599C?logo=linkedin)](https://www.linkedin.com/in/victorhg8/)
-[![Gmail Badge](https://img.shields.io/badge/-hugovictor.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugovictor.edv@gmail.com)](mailto:hugovictor.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/VictorH8)
+## 🛠 Projetos Relevantes
+
+🔹 [VTrust](https://github.com/VictorH8/VTrust)  
+*O VTrust é uma biblioteca Python que verifica a segurança de websites, identificando certificados inseguros, domínios suspeitos e vulnerabilidades. Suas principais funções incluem verificação de SSL/TLS, análise de dados Whois, checagem de segurança e reputação do site.*  
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/victorh8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorh8&theme=midnight-purple&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorh8&layout=compact&theme=midnight-purple" />
+  </a>
+</div>
+
+
+---
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhg8/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugovictor.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorH8)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=victorh8&color=8123C8&style=flat" alt="Visualizações do perfil" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8123C8&height=100&section=footer&animation=fadeIn"/>
