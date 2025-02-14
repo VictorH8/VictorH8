@@ -1,3 +1,9 @@
+<div align="center">
+
+![Linux](https://camo.githubusercontent.com/832574908c191e4fbe62e380eb016f6b573f86881b66562d02105fa628d52f2c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30352f33302f37322f30353330373264616262616230353462656130333534353132333966653831622e706e67)
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1003&color=8123C8&center=true&width=435&height=53&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Victor+H.)](https://git.io/typing-svg)
 
 ## Sobre mim
