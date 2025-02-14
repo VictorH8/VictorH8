@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8123C8&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend;Apaixonado+por+Tecnologia;Sempre+Aprendendo+e+Compartilhando!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8123C8&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend" />
 </div>
 
 <div align="center">
