@@ -1,14 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8123C8&height=100&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&animation=fadeIn"/>
 
-<!-- <div align="center"> -->
-<!--   <h3 align="center"> Bem-vindo(a) ao meu perfil! </h3> -->
-<!-- </div> -->
-
-<!--  --- -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8123C8&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend" />
-</div>
 
 <div align="center">
   <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Hacker Icon" width="120" height="120"/>
@@ -64,7 +55,7 @@ Me chamo **Victor H**. Sou um Desenvolvedor Backend fascinado por tecnologia e s
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=victorh8&color=8123C8&style=flat" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=VictorH8&style=for-the-badge&color=000008" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8123C8&height=100&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&animation=fadeIn"/>
