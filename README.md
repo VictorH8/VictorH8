@@ -10,7 +10,7 @@
 
 ### Sobre Mim
 
-- 📚 Me chamo Victor e atualmente curso Ciência da Computação. Tenho interesse em Linux, gosto de contribuir com projetos de software livre e sempre busco aprender mais sobre o assunto. 
+- 👤 Me chamo Victor e atualmente curso Ciência da Computação. Tenho interesse em Linux, gosto de contribuir com projetos de software livre e sempre busco aprender mais sobre o assunto. 
 
 ```py
 data = {
