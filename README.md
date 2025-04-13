@@ -19,10 +19,10 @@ data = {
     ],
     "favorite_languages": [
         "Python",
-        "C",
         "Shell Script"
     ],
     "studying": [
+        "C",
         "JavaScript"
     ]
 }
